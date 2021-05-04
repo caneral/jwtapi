@@ -1,0 +1,17 @@
+D:\BackEnd\JwtSolution\Jwt.Business\bin\Release\net5.0\Jwt.Business.deps.json
+D:\BackEnd\JwtSolution\Jwt.Business\bin\Release\net5.0\Jwt.Business.dll
+D:\BackEnd\JwtSolution\Jwt.Business\bin\Release\net5.0\ref\Jwt.Business.dll
+D:\BackEnd\JwtSolution\Jwt.Business\bin\Release\net5.0\Jwt.Business.pdb
+D:\BackEnd\JwtSolution\Jwt.Business\bin\Release\net5.0\AppCore.dll
+D:\BackEnd\JwtSolution\Jwt.Business\bin\Release\net5.0\Jwt.DAL.dll
+D:\BackEnd\JwtSolution\Jwt.Business\bin\Release\net5.0\AppCore.pdb
+D:\BackEnd\JwtSolution\Jwt.Business\bin\Release\net5.0\Jwt.DAL.pdb
+D:\BackEnd\JwtSolution\Jwt.Business\obj\Release\net5.0\Jwt.Business.csprojAssemblyReference.cache
+D:\BackEnd\JwtSolution\Jwt.Business\obj\Release\net5.0\Jwt.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\JwtSolution\Jwt.Business\obj\Release\net5.0\Jwt.Business.AssemblyInfoInputs.cache
+D:\BackEnd\JwtSolution\Jwt.Business\obj\Release\net5.0\Jwt.Business.AssemblyInfo.cs
+D:\BackEnd\JwtSolution\Jwt.Business\obj\Release\net5.0\Jwt.Business.csproj.CoreCompileInputs.cache
+D:\BackEnd\JwtSolution\Jwt.Business\obj\Release\net5.0\Jwt.Business.csproj.CopyComplete
+D:\BackEnd\JwtSolution\Jwt.Business\obj\Release\net5.0\Jwt.Business.dll
+D:\BackEnd\JwtSolution\Jwt.Business\obj\Release\net5.0\ref\Jwt.Business.dll
+D:\BackEnd\JwtSolution\Jwt.Business\obj\Release\net5.0\Jwt.Business.pdb
